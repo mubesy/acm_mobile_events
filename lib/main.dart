@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Color.fromRGBO(28, 85, 141, 1.0)),
           useMaterial3: true,
         ),
-        onGenerateRoute: router.generator,      ),
+        onGenerateRoute: router.generator, ),
     );
   }
 }
